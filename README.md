@@ -73,7 +73,7 @@ Hey there, Thanks for visiting my profile...
 
 
 
- ![Neel's GitHub activity graph]( https://github-readme-activity-graph.vercel.app/graph?username=NotNxeltheme=react-dark&area=true&hide_border=true#gh-light-mode-only)
+ ![Neel's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NotNxel&bg_color=000000&color=4c4f9e&line=4c4f9e&point=403d3d&area=true&hide_border=true)]
  
  <p align="center"><img align="center" src="60157b62652163c01c6d19e2a389338e.gif" alt="NotNxel" /></p>
 <p align="center">
